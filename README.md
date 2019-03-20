@@ -25,5 +25,5 @@ Detalhes de configurações dos bancos encontram-se no aquivo .env.exemple
 
 ### Créditos
 
-Projeto desenvolvido por Antonio Fernandes
-Contato: <imbitubadigital@gmail.com>
+<p>Projeto desenvolvido por Antonio Fernandes</p>
+<p>Contato: <imbitubadigital@gmail.com></p>
